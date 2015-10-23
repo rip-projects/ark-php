@@ -1,0 +1,9 @@
+{
+  "type": "php",
+  "name": "ark-php-core",
+  "group": "id.co.xinix",
+  "version": "0.0.1",
+  "desc": "project ark-php",
+  "author": "Jafar Shadiq <jafar@xinix.co.id>",
+  "license": "XINIX"
+}

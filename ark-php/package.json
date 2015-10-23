@@ -1,0 +1,21 @@
+{
+  "type": "php",
+  "name": "ark-php",
+  "group": "id.co.xinix",
+  "version": "0.0.1",
+  "desc": "ark-php skeleton",
+  "author": "Jafar Shadiq <jafar@xinix.co.id>",
+  "license": "XINIX",
+  "arkDependencies": {
+    "id.co.xinix:ark-php-core": "*"
+  },
+  "dependencies": {
+    "underscore": "1.4.4",
+    "semver": "1.1.4",
+    "mkdirp": "0.3.5"
+  },
+  "arkScripts": {
+    "install": "node ark-php/scripts/install.js && am script generate",
+    "generate": "node ark-php/scripts/generate.js"
+  }
+}

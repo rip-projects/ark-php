@@ -1,0 +1,197 @@
+.login-pane {
+    width: 400px;
+    height: 312px;
+    margin: 0 auto;
+    position: absolute;
+    z-index: 9999;
+}
+.login-pane p {
+    text-align: center;
+    padding: 10px 0 0;
+    color: #808080;
+    border-top: 1px dotted #b3b3b3;
+}
+.login-pane .title {
+    margin: 10px 0;
+    text-align: center;
+    font-size: 2.6em;
+    color: #ff9933;
+    text-shadow: 0 1px 2px #fff;
+    padding: 10px 0;
+}
+.login-pane .title strong {
+    font-weight: normal;
+    font-size: 1.4em;
+    line-height: 20px;
+    color: #236a94;
+    text-shadow: 0 1px 2px #ffffff;
+}
+.login-pane h2 {
+    color: #808080;
+    padding: 10px 0 25px;
+    text-align: center;
+    font-size: 1.6em;
+    text-shadow: 0 1px 2px #ffffff;
+}
+.login-pane form {
+    padding: 30px 40px;
+    background: url("../img/login-box.png") center -150px repeat-x;
+    border: 1px solid #b3b3b3;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border-radius: 15px;
+    -webkit-box-shadow: 0 15px 125px rgba(1, 1, 1, 0.5);
+    -khtml-box-shadow: 0 15px 125px rgba(1, 1, 1, 0.5);
+    -moz-box-shadow: 0 15px 125px rgba(1, 1, 1, 0.5);
+    -ms-box-shadow: 0 15px 125px rgba(1, 1, 1, 0.5);
+    -o-box-shadow: 0 15px 125px rgba(1, 1, 1, 0.5);
+    box-shadow: 0 15px 125px rgba(1, 1, 1, 0.5);
+    filter: progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=180, Strength=5);
+}
+.login-pane form label {
+    display: none;
+    width: 235px;
+    text-align: right;
+    font-size: 0.9em;
+    color: #808080;
+    padding: 0 0 3px;
+    font-weight: normal;
+    margin: 0 0 0 20px;
+}
+.login-pane form input.text,
+.login-pane form input.password {
+    width: 235px;
+    height: 30px;
+    padding: 5px;
+    font-size: 1.2em;
+    float: none;
+}
+.login-pane form input.submit {
+    width: 146px;
+    font-size: 1.4em;
+    float: none;
+}
+.login-pane form div,
+.login-pane form div.hover {
+    padding: 0;
+    background: none;
+    border: none;
+}
+.login-pane form .login-form div {
+    padding: 5px 0;
+    display: table;
+    margin: 0 auto;
+}
+.login-pane form .login-form .title {
+    padding-top: 40px;
+}
+.login-pane form .login-form .logo {
+    padding: 0;
+    text-align: center;
+    background: url(../img/logo.png) no-repeat top center;
+    width: 200px;
+    /*height: 100px;*/
+}
+.login-pane form .last {
+    padding: 10px 0;
+    display: block;
+}
+.login-pane form .system-time {
+    text-align: center;
+    padding: 0 0 30px;
+}
+.login-pane form .system-time span {
+    color: #808080;
+    text-shadow: 0 1px 1px #ffffff;
+}
+.accessdenied {
+    -webkit-animation: shake 1s 1 linear;
+    -khtml-animation: shake 1s 1 linear;
+    -moz-animation: shake 1s 1 linear;
+    -ms-animation: shake 1s 1 linear;
+    -o-animation: shake 1s 1 linear;
+    animation: shake 1s 1 linear;
+}
+
+
+/* Ajax search result auto complete */
+.ac_results {
+    z-index: 99999;
+    -webkit-opacity: 0.9;
+    -khtml-opacity: 0.9;
+    -moz-opacity: 0.9;
+    -ms-opacity: 0.9;
+    -o-opacity: 0.9;
+    opacity: 0.9;
+    margin-top: 10px;
+    padding: 2px;
+    background-color: #404040;
+    font-size: 1em;
+    border: 1px solid #1a1a1a;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 5px #808080;
+    -khtml-box-shadow: 0 0 5px #808080;
+    -moz-box-shadow: 0 0 5px #808080;
+    -ms-box-shadow: 0 0 5px #808080;
+    -o-box-shadow: 0 0 5px #808080;
+    box-shadow: 0 0 5px #808080;
+}
+.ac_results:before {
+    content: "";
+    position: absolute;
+    margin: -9px 0 0 27px;
+    border-width: 0 7px 7px 7px;
+    border-style: solid;
+    border-color: #404040 transparent;
+    display: block;
+    width: 0;
+}
+.ac_results ul {
+    width: 100%;
+    list-style-position: outside;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.ac_results li {
+    margin: 0;
+    padding: 2px 5px;
+    cursor: default;
+    display: block;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    line-height: 16px;
+    overflow: hidden;
+    color: #ffffff;
+}
+.ac_results li a,
+.ac_results li em,
+.ac_results li strong,
+.ac_results li span {
+    color: #ffff00;
+}
+.ac_odd {
+    background-color: #4d4d4d;
+}
+.ac_over {
+    background-color: #48a0d4;
+}
+.ac_loading {
+    background: #ffffff url("../img/indicator.gif") right center no-repeat;
+}
+
+/***************************************************************/
+
+.table td { white-space: nowrap; overflow: hidden}

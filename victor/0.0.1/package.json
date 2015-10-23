@@ -1,0 +1,9 @@
+{
+  "type": "theme",
+  "name": "default",
+  "group": "id.co.xinix.themes",
+  "version": "0.0.1",
+  "desc": "default themes",
+  "author": "Jafar Shadiq <jafar@xinix.co.id>",
+  "license": "XINIX"
+}

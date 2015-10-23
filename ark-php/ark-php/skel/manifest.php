@@ -1,0 +1,3 @@
+<?php
+
+$manifest['ENVIRONMENT'] = 'development';

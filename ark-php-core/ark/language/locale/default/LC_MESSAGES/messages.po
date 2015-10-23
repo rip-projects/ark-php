@@ -1,0 +1,300 @@
+msgid   "(Please select)"
+msgstr  ""
+
+msgid   "Add"
+msgstr  ""
+
+msgid   "Add Payment"
+msgstr  ""
+
+msgid   "Amount"
+msgstr  ""
+
+#, php-format
+msgid   "Are you sure want to <strong style=\"color:#c00\">delete</strong> %s "
+        "record"
+msgstr  ""
+
+#, php-format
+msgid   "Are you sure want to <strong style=\"color:#c00\">delete</strong> %s "
+        "records"
+msgstr  ""
+
+msgid   "Back"
+msgstr  ""
+
+msgid   "Back to Listing"
+msgstr  ""
+
+msgid   "Base Directory"
+msgstr  ""
+
+msgid   "Body"
+msgstr  ""
+
+msgid   "Cache cleaned!"
+msgstr  ""
+
+msgid   "Cancel"
+msgstr  ""
+
+msgid   "Cannot access resources, Contact Administrator"
+msgstr  ""
+
+msgid   "Change Password"
+msgstr  ""
+
+msgid   "City"
+msgstr  ""
+
+msgid   "Close"
+msgstr  ""
+
+msgid   "Company Name"
+msgstr  ""
+
+msgid   "Configuration"
+msgstr  ""
+
+msgid   "Confirmation"
+msgstr  ""
+
+msgid   "Controller Base Class"
+msgstr  ""
+
+msgid   "Country"
+msgstr  ""
+
+msgid   "Create Table"
+msgstr  ""
+
+msgid   "Data CSV must be in form of:"
+msgstr  ""
+
+msgid   "Delete"
+msgstr  ""
+
+msgid   "Email"
+msgstr  ""
+
+msgid   "Extra"
+msgstr  ""
+
+msgid   "Fields"
+msgstr  ""
+
+msgid   "First Name"
+msgstr  ""
+
+msgid   "First name"
+msgstr  ""
+
+msgid   "GRT"
+msgstr  ""
+
+msgid   "Gender"
+msgstr  ""
+
+msgid   "Generate Password"
+msgstr  ""
+
+msgid   "Google ID"
+msgstr  ""
+
+msgid   "Home"
+msgstr  ""
+
+msgid   "Last Name"
+msgstr  ""
+
+msgid   "Last name"
+msgstr  ""
+
+msgid   "Login"
+msgstr  ""
+
+msgid   "Logout"
+msgstr  ""
+
+msgid   "Mail Code"
+msgstr  ""
+
+msgid   "Method Count"
+msgstr  ""
+
+msgid   "Methods"
+msgstr  ""
+
+msgid   "Model Base Class"
+msgstr  ""
+
+msgid   "Module Count"
+msgstr  ""
+
+msgid   "Modules"
+msgstr  ""
+
+msgid   "Modules have not been finished yet"
+msgstr  ""
+
+msgid   "Name"
+msgstr  ""
+
+msgid   "New Password"
+msgstr  ""
+
+msgid   "Next"
+msgstr  ""
+
+msgid   "No record available"
+msgstr  ""
+
+msgid   "OK"
+msgstr  ""
+
+msgid   "Old Password"
+msgstr  ""
+
+msgid   "Password"
+msgstr  ""
+
+msgid   "Payment"
+msgstr  ""
+
+msgid   "Post Name"
+msgstr  ""
+
+msgid   "Price"
+msgstr  ""
+
+msgid   "Profile"
+msgstr  ""
+
+msgid   "Profile Page"
+msgstr  ""
+
+msgid   "Province"
+msgstr  ""
+
+msgid   "Re-type New Password"
+msgstr  ""
+
+msgid   "Record added"
+msgstr  ""
+
+msgid   "Record updated"
+msgstr  ""
+
+msgid   "Reply"
+msgstr  ""
+
+msgid   "Retype Password"
+msgstr  ""
+
+msgid   "Role name"
+msgstr  ""
+
+msgid   "Roles"
+msgstr  ""
+
+msgid   "Save"
+msgstr  ""
+
+msgid   "Size"
+msgstr  ""
+
+msgid   "Status"
+msgstr  ""
+
+msgid   "Submit"
+msgstr  ""
+
+msgid   "Summary"
+msgstr  ""
+
+msgid   "System"
+msgstr  ""
+
+#, php-format
+msgid   "The %s field must be valid number value."
+msgstr  ""
+
+#, php-format
+msgid   "The %s field required."
+msgstr  ""
+
+msgid   "This page will be redirected back to referer soon..."
+msgstr  ""
+
+msgid   "Title"
+msgstr  ""
+
+msgid   "Total"
+msgstr  ""
+
+msgid   "Type"
+msgstr  ""
+
+msgid   "Unit"
+msgstr  ""
+
+msgid   "Upload success"
+msgstr  ""
+
+msgid   "Use Payment"
+msgstr  ""
+
+msgid   "Use Reply"
+msgstr  ""
+
+msgid   "Username"
+msgstr  ""
+
+msgid   "Username (Character and number only)"
+msgstr  ""
+
+msgid   "Username/Email"
+msgstr  ""
+
+msgid   "Username/email or password not found"
+msgstr  ""
+
+msgid   "Vessel Name"
+msgstr  ""
+
+msgid   "Yahoo ID"
+msgstr  ""
+
+msgid   "You are <span style=\"color:red\">unauthorized</span> to see this "
+        "page."
+msgstr  ""
+
+msgid   "You must submit the word that appears in the image"
+msgstr  ""
+
+msgid   "city"
+msgstr  ""
+
+msgid   "country"
+msgstr  ""
+
+msgid   "format.long_date"
+msgstr  ""
+
+msgid   "format.mysql_datetime"
+msgstr  ""
+
+msgid   "format.short_date"
+msgstr  ""
+
+msgid   "format.short_datetime"
+msgstr  ""
+
+msgid   "format.short_time"
+msgstr  ""
+
+msgid   "name"
+msgstr  ""
+
+msgid   "province"
+msgstr  ""

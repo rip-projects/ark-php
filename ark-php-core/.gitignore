@@ -1,0 +1,16 @@
+/nbproject
+/.buildpath
+/.project
+/.settings
+/captcha/*
+*.log
+*.log*
+.hg*
+/application/cache/*
+/application/logs/*
+/data/*
+*.sublime*
+/install/db/*sql*
+.DS_Store
+/application/*
+/install
